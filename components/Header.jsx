@@ -15,7 +15,7 @@ const Header = () => {
       <div className="border-b w-full inline-block border-blue-300 py-8">
         <div className="flex justify-center md:float-left block">
           <Link href="/">
-            <span className="cursor-pointer font-sans font-extrabold text-4xl text-sky-100">
+            <span className="cursor-pointer font-nunito font-extrabold text-4xl text-sky-100">
               Cloudy Unicorn
             </span>
           </Link>
